@@ -44,7 +44,7 @@ This Power BI dashboard analyzes marketing performance across major social media
 ---
 
 ## 🔗 Live Report
-[Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=your-dashboard-link)
+[Click here to view the Power BI Dashboard](https://app.powerbi.com/groups/bcefc5c0-cbfe-4c2a-8011-bb19e0d3e37e/dashboards/ee47d36f-7de4-4213-b6af-aebc41c55dca?experience=power-bi)
 
 ---
 
